@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حفظ المعلومات</string>
+    <string name="name">الاسم</string>
+    <string name="load">الاسم المحمل</string>
+    <string name="save">احفظ</string>
+    <string name="largetext">المعلومات التي تم حفظها</string>
+
+</resources>
